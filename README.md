@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 
   ##
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/thiagoferreirarose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/thiago-fr/thiago-fr/blob/output/github-contribution-grid-snake.svg)
