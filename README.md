@@ -21,7 +21,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Linux" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"><br>
+  
+  <img align="center" alt="Linux" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Linux" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   
   
 </div>
