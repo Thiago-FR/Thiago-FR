@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there 👋
+  <img src="https://drive.google.com/file/d/1-4jnIhJLWLusKqQoO6Avj6XKCI82DgyZ/view?usp=sharing" alt="caricatura de Thiago" />
 </h2>
 
 <div align="center">
