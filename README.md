@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img height="200px" with="100px" src="https://lh6.googleusercontent.com/3PAeQ8ZAfpeWDK9emkLL57Ok8MLTQjx4Yyy9zdFcCJtvi1X3igC5aHDCckcQVez9BG97Nfk3Vjnr1xp78RzN=w1960-h1704-rw" alt="caricatura de Thiago" />
+  <img height="400px" with="200px" src="https://lh6.googleusercontent.com/3PAeQ8ZAfpeWDK9emkLL57Ok8MLTQjx4Yyy9zdFcCJtvi1X3igC5aHDCckcQVez9BG97Nfk3Vjnr1xp78RzN=w1960-h1704-rw" alt="caricatura de Thiago" />
 </h2>
 
 <div align="center">
