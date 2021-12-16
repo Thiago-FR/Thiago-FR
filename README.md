@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img height="400px" with="200px" src=https://i.ibb.co/8Bgtgnv/mi4.png" alt="caricatura de Thiago" />
+  <img height="400px" with="200px" src="https://i.ibb.co/8Bgtgnv/mi4.png" alt="caricatura de Thiago" />
 </h2>
 
 <div align="center">
