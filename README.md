@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
   ##
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/thiagoferreirarose/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiagoferreirarose/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
   ![Snake animation](https://github.com/thiago-fr/thiago-fr/blob/output/github-contribution-grid-snake.svg)
 </div>
