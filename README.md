@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/thiago-fr">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
