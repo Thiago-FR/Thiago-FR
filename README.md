@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/thiago-fr">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=radical"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&great-gatsby"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
 </div>
   
