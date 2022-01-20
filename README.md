@@ -29,8 +29,7 @@
   <img align="center" alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
   <img align="center" alt="jQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   
-  <br>
-  
+ 
   <img align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Git" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -39,7 +38,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
   <img align="center" alt="Linux" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
-  <br>
   
   <img align="center" alt="Linux" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
