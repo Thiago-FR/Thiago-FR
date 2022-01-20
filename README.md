@@ -75,5 +75,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-or
   ##
 
 <div align="center"> 
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thiagoferreirarose/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1tsO8ipD-S3vx3BsEtnrUr6phf8A55jPx/view?usp=sharing" ><img alt="curriculo" src="https://img.shields.io/badge/%BB-Curr%CDculo-black?style=for-the-badge"></a> 
+
   ![Snake animation](https://github.com/thiago-fr/thiago-fr/blob/output/github-contribution-grid-snake.svg)
 </div>
