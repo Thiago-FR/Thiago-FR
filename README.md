@@ -55,12 +55,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <div style="display: inline_block" align="center"> 
   
   <img align="center" alt="Docker" height="70" idth="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="MySql" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="NideJS" height="70" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-                                                                                            
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">                                                                     
   <img align="center" alt="MongoDB" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="TypeScript" height="50" width="60"
