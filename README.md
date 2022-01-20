@@ -15,9 +15,10 @@
   
 <hr>
 <h4 align="center">Habilidades já desenvolvidas</h4>
-<div style="display: inline_block" align="center">
   
-  <br>
+<br>
+  
+<div style="display: inline_block" align="center"> 
   
   <img align="center" alt="JavaScrip" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -51,6 +52,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   
 <br>
   
+<div style="display: inline_block" align="center"> 
+  
   <img align="center" alt="Docker" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"">
   <img align="center" alt="MySql" height="50" width="60"
@@ -63,8 +66,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
   <img align="center" alt="MongoDB" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="TypeScript" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">                                                                                         
-                                                                                            
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">        
+
+</div>                                                                                            
 
   ##
 
