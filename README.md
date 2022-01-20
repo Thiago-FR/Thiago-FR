@@ -14,7 +14,7 @@
 </div>
   
 <hr>
-<h4 align="center">Habilidades já desenvolvidas</h4>
+<h4 align="center">Skils já desenvolvidas</h4>
   
 <br>
   
@@ -48,7 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   
 <br>
 <hr>
-<h4 align="center">Habilidades em desenvolvimento</h4>
+<h4 align="center">Skils em desenvolvimento</h4>
   
 <br>
   
@@ -59,7 +59,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-w
   <img align="center" alt="MySql" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="NideJS" height="70" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">                                                                     
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  
   <img align="center" alt="MongoDB" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="TypeScript" height="50" width="60"
