@@ -3,18 +3,18 @@
 </div>
 
 <h3 align="center">Me chamo Thiago</h3>
-<p>Sou estudante de Desenvolvimento de Software na Trybe</p>
+<p align="center">Sou estudante de Desenvolvimento de Software na Trybe</p>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/thiago-fr">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=great-gatsby&count_private=true&locale=pt-br"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-   gatsby&custom_title=Linguagens"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-   gatsby&custom_title=Linguagens"/>
 </div>
   
 <hr>
-<h4>Habilidades já desenvolvidas</h4>
+<h4 align="center">Habilidades já desenvolvidas</h4>
 <div style="display: inline_block" align="center">
   
   <br>
@@ -46,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
 <br>
 <hr>
-<h4>Habilidades em desenvolvimento</h4>
+<h4 align="center">Habilidades em desenvolvimento</h4>
 
   ##
 
