@@ -1,19 +1,30 @@
-<h2 align="center">
+<div align="center">
   <img height="400px" with="200px" src="https://i.ibb.co/8Bgtgnv/mi4.png" alt="caricatura de Thiago" />
-</h2>
+</div>
+
+<h3 align="center">Me chamo Thiago</h3>
+<p>Sou estudante de Desenvolvimento de Software na Trybe</p>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/thiago-fr">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=great-gatsby&count_private=true&locale=pt-br"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-   gatsby&custom_title=Linguagens"/>
 </div>
   
-<div style="display: inline_block" align="center"><br>
+<hr>
+<h4>Habilidades já desenvolvidas</h4>
+<div style="display: inline_block" align="center">
+  
+  <br>
   
   <img align="center" alt="JavaScrip" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
-  <img align="center" alt="jQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"><br>
+  <img align="center" alt="jQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+  
+  <br>
   
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Git" height="40" width="50"
@@ -21,7 +32,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Linux" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"><br>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  
+  <br>
   
   <img align="center" alt="Linux" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -31,6 +44,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">  
   
 </div>
+<br>
+<hr>
+<h4>Habilidades em desenvolvimento</h4>
 
   ##
 
