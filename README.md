@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Me chamo Thiago</h3>
-<p align="center">Sou estudante de Desenvolvimento de Software na Trybe</p>
+<p align="center">Sou estudante de Desenvolvimento de Software na <strong>Trybe</strong></p>
 
 <br>
 
@@ -44,9 +44,27 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">  
   
 </div>
+  
 <br>
 <hr>
 <h4 align="center">Habilidades em desenvolvimento</h4>
+  
+<br>
+  
+  <img align="center" alt="Docker" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"">
+  <img align="center" alt="MySql" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="NideJS" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+                                                                                            
+<br>
+                                                                                            
+  <img align="center" alt="MongoDB" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="TypeScript" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">                                                                                         
+                                                                                            
 
   ##
 
