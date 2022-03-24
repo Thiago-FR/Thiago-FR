@@ -24,6 +24,7 @@
   
 <div style="display: inline_block" align="center"> 
   
+  <h4 align="center">Front-End</h4>
   <img align="center" alt="JavaScrip" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
@@ -44,7 +45,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
   <img align="center" alt="Linux" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Jest" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  
+  <h4 align="center">Back-End</h4>
+  <img align="center" alt="MySql" height="70" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="NideJS" height="70" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   
 </div>
   
@@ -58,10 +65,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   
   <img align="center" alt="MongoDB" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="MySql" height="70" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="NideJS" height="70" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+
   
   <img align="center" alt="Docker" height="70" idth="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
