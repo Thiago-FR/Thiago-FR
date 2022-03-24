@@ -48,9 +48,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   
   <h4 align="center">Back-End</h4>
-  <img align="center" alt="MySql" height="70" width="80"
+  <img align="center" alt="MySql" height="80" width="90"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="NideJS" height="70" width="80"
+  <img align="center" alt="NideJS" height="90" width="100"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   
 </div>
