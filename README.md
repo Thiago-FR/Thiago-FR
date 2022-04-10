@@ -24,7 +24,6 @@
   
 <div style="display: inline_block" align="center"> 
   
-  <h4 align="center">Front-End</h4>
   <img align="center" alt="JavaScrip" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
@@ -39,7 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
   <img align="center" alt="Linux" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
-  
+<br>  
   <img align="center" alt="Linux" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Linux" height="50" width="60"
@@ -47,15 +46,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
   <img align="center" alt="Jest" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   
-  <h4 align="center">Back-End</h4>
+<br>
   <img align="center" alt="MySql" height="80" width="90"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="NideJS" height="90" width="100"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+   <img align="center" alt="Docker" height="70" idth="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="TypeScript" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
   
 </div>
-  
-<br>
+
 <hr>
 <h4 align="center">Skils em desenvolvimento</h4>
   
@@ -67,10 +69,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 
   
-  <img align="center" alt="Docker" height="70" idth="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="TypeScript" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">        
+       
 
 </div>                                                                                            
 
