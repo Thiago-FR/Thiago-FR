@@ -49,8 +49,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <br>
   <img align="center" alt="MySql" height="80" width="90"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="NideJS" height="90" width="100"
+  <img align="center" alt="NodeJS" height="90" width="100"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Express" height="90" width="100"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
    <img align="center" alt="Docker" height="70" idth="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="TypeScript" height="50" width="60"
