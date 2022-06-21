@@ -6,7 +6,7 @@
   <h3>Me chamo Thiago</h3>
   <p>Sou estudante de Desenvolvimento de Software na <strong>Trybe</strong></p>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thiagoferreirarose/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1N68mZN9PRWQqBQ2YvKpCJ7z1rTkRJwLF/view?usp=sharing" ><img alt="curriculo" src="https://img.shields.io/badge/%BB-Curr%CDculo-black?style=for-the-badge"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1yhiCW71vo_kDmlExJrtpVoIKuedHuIYm/view?usp=sharing" ><img alt="curriculo" src="https://img.shields.io/badge/%BB-Curr%CDculo-black?style=for-the-badge"></a> 
 </div>
 
 <br>
