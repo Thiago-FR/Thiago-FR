@@ -80,7 +80,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
    <img align="center" alt="NestJS" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-fr" alt="" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-fr" alt="" /> </p> -->
        
 
 </div>                                                                                            
