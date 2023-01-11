@@ -61,6 +61,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-w
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="MongoDB" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+
+  <img align="center" alt="Python" height="70" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   
 </div>
 
@@ -75,10 +78,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring Boot" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Python" height="70" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-   <img align="center" alt="NestJS" height="70" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
+
+  <img align="center" alt="Spring Boot" height="70" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-fr" alt="" /> </p> -->
        
