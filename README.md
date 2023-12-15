@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/thiago-fr">
-      <img height="280em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&theme=radical&show_icons=true"/>
+      <img height="280em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&theme=radical&show_icons=true&count_private=true&locale=pt-br"/>
   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=great-gatsby&count_private=true&locale=pt-br"/>
   <img height="300em" width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
 </div>
