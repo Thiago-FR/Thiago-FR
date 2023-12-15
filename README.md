@@ -12,6 +12,7 @@
 <br>
 
 <div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thiago-fr=anuraghazra&theme=radical&show_icons=true)
   <a href="https://github.com/thiago-fr">
   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=great-gatsby&count_private=true&locale=pt-br"/>
   <img height="300em" width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
@@ -75,14 +76,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-or
 
 <hr>
 <h4 align="center">Skils em Atualização</h4>
-    <img align="center" alt="React" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <div style="display: inline_block" align="center"> 
+      <img align="center" alt="React" height="70" width="80"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </div>div
 <br>
 
 <hr>
+
 <h4 align="center">Skils em desenvolvimento</h4>
-    <img align="center" alt="NextJs" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <div style="display: inline_block" align="center"> 
+      <img align="center" alt="NextJs" height="70" width="80"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  </div>
 <br>          
   
 <div style="display: inline_block" align="center"> 
