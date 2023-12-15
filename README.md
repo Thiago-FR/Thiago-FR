@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/thiago-fr">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=great-gatsby&count_private=true&locale=pt-br"/>
-  <img height="280em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&show_icons=true&theme=great-gatsby&count_private=true&locale=pt-br"/>
+  <img height="300em" width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&layout=default&langs_count=7&theme=great-gatsby&custom_title=Linguagens"/>
 </div>
   
 <hr>
@@ -39,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
 <br>  
-  <img align="center" alt="Linux" height="50" width="60"
+  <img align="center" alt="React" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Linux" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
@@ -74,9 +74,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-or
 </div>
 
 <hr>
-<h4 align="center">Skils em desenvolvimento</h4>
-  
+<h4 align="center">Skils em Atualização</h4>
+    <img align="center" alt="React" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <br>
+
+<hr>
+<h4 align="center">Skils em desenvolvimento</h4>
+    <img align="center" alt="NextJs" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+<br>          
   
 <div style="display: inline_block" align="center"> 
   
