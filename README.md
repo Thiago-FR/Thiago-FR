@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/thiago-fr">
       <img height="250em" src="https://github-readme-stats.vercel.app/api?username=thiago-fr&theme=radical&show_icons=true&count_private=true&locale=pt-br"/>
-  <img height="280em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&custom_title=Linguagens"/>
+  <img height="280em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fr&langs_count=7&custom_title=Linguagens"/>
 </div>
   
 <hr>
