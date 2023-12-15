@@ -64,7 +64,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 
   <img align="center" alt="Python" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  
+  <img align="center" alt="Golang" height="70" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img align="center" alt="Csharp" height="70" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NetCore" height="70" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+          
 </div>
 
 <hr>
@@ -74,13 +80,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-w
   
 <div style="display: inline_block" align="center"> 
   
-  <img align="center" alt="Java" height="70" width="80"
+<!--  <img align="center" alt="Java" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring Boot" height="70" width="80"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 
   <img align="center" alt="Spring Boot" height="70" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> </p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-fr" alt="" /> </p> -->
        
