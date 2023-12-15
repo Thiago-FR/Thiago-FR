@@ -78,7 +78,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-or
   <div style="display: inline_block" align="center"> 
       <img align="center" alt="React" height="70" width="80"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </div>div
+  </div>
 <br>
 
 <hr>
