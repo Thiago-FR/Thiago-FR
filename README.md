@@ -6,7 +6,7 @@
   <h3>Me chamo Thiago</h3>
   <p>Desenvolvedor FullStack</strong></p>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thiagoferreirarose/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1ixt2-S0kOWcATA2CwYzubHhE2gh-I4Ks/view?usp=sharing" ><img alt="curriculo" src="https://img.shields.io/badge/%BB-Curr%CDculo-black?style=for-the-badge"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1jGsnGp2VkhNgfC45I0IAwesQfkgjmv2P/view?usp=sharing" ><img alt="curriculo" src="https://img.shields.io/badge/%BB-Curr%CDculo-black?style=for-the-badge"></a> 
 </div>
 
 <br>
