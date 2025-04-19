@@ -74,6 +74,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-or
 </div>
 
 <hr>
+<!--
 <h4 align="center">Skils em Atualização</h4>
   <div style="display: inline_block" align="center"> 
       <img align="center" alt="React" height="70" width="80"
@@ -88,7 +89,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-or
       <img align="center" alt="NextJs" height="70" width="80"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   </div>
-<br>          
+<br>   
+-->
   
 <div style="display: inline_block" align="center"> 
   
