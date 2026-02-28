@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00FFAA&center=true&vCenter=true&width=520&lines=console.log('Hello+World');Thiago+%7C+Full+Stack" />
-
+<br />
   <a href="https://www.linkedin.com/in/thiagoferreirarose/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
